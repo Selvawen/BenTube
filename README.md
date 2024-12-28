@@ -8,7 +8,7 @@ BenTube is a modern video streaming and sharing application, built with React an
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Demo](#demo)
 - [License](#license)
 
 ## Features
@@ -66,6 +66,8 @@ http://localhost:3000
 ```
 
 This will display the application's user interface, where you can interact with its features.
+
+## Demo
 
 ## Usage
 
