@@ -31,7 +31,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Selvawen/BenTube.git>
    cd BenTube
    ```
 2. **Install Dependencies:**
