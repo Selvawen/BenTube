@@ -41,7 +41,7 @@ const Feed = () => {
             href="https://github.com/Selvawen/BenTube/"               
             target="_blank"
             rel="noreferrer noopener"
-            style={{ color: "#FC1503" }}
+            style={{ color: "#C6511B" }}
             title="View Source Code"
           >
             BenTube
@@ -57,7 +57,7 @@ const Feed = () => {
           mb={2}
           sx={{ color: "#fff" }}
         >
-          {selectedCategory} <span style={{ color: "#FC1503" }}>videos</span>
+          {selectedCategory} <span style={{ color: "#C6511B" }}>videos</span>
         </Typography>
 
         {/* Videos */}
