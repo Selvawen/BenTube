@@ -2,6 +2,7 @@
 
 BenTube is a modern video streaming and sharing application, built with React and styled using Material-UI. This project provides an intuitive and responsive platform for uploading, viewing, and managing video content.
 
+https://ben-tube.netlify.app/
 ## Table of Contents
 
 - [Features](#features)
